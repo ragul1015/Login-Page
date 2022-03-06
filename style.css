@@ -1,0 +1,20 @@
+body{
+            background-image: url('./pexels-johannes-plenio-1103970.jpg');
+            background-position: 50%;
+            background-attachment: fixed;
+        }
+        .card{
+           margin-top:100px;
+           width:500px;
+          
+        }
+        .container{
+            margin-left: 450px ;
+        }
+        p{
+           font-size: x-large; 
+        }
+             
+        button:hover{
+            background-color: blueviolet;
+        }
